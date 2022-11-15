@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dummy-REPO/static/css/main.073c9b0a.css",
+    "main.js": "/Dummy-REPO/static/js/main.77f87476.js",
+    "static/js/787.cda612ba.chunk.js": "/Dummy-REPO/static/js/787.cda612ba.chunk.js",
+    "static/media/logo.svg": "/Dummy-REPO/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Dummy-REPO/index.html",
+    "main.073c9b0a.css.map": "/Dummy-REPO/static/css/main.073c9b0a.css.map",
+    "main.77f87476.js.map": "/Dummy-REPO/static/js/main.77f87476.js.map",
+    "787.cda612ba.chunk.js.map": "/Dummy-REPO/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.77f87476.js"
+  ]
+}
